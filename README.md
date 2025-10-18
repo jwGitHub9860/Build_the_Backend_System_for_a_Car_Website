@@ -34,3 +34,31 @@ IntelliJ provides VCS (Version Control System) menu to import a Github repositor
 
 ## License
 [License](LICENSE.txt)
+
+
+<br/>
+
+
+## Description:
+
+The project is an Uber web application that allows user to location to be driven to, show price of Uber ride, and what vehicle Uber will use.
+
+## Files Used
+
+_None_
+
+
+## Date created
+
+**10/18/2025**
+
+## Udacity Mentors Who Have Answered Questions In _Knowledge_ To Help With Project
+
+- 
+
+## Credits
+###### References used while making project
+
+“MLA Works Cited: Electronic Sources (Web Publications).” _MLA Works Cited: Electronic Sources - Purdue OWL® - Purdue University_, owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_electronic_sources.html. Accessed 18 Oct. 2025.
+
+nehbehl. “Nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter.” _GitHub_, Udacity, github.com/udacity/nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter. Accessed 18 Oct. 2025.
